@@ -9,7 +9,7 @@ const color_mode = {
 export default  [
   '@nuxt/typescript-build',
   '@nuxtjs/composition-api',
-  'nuxt-postcss8',
+  '@nuxt/postcss8',
   'nuxt-windicss',
   'nuxt-vite',
   ['@nuxtjs/color-mode', color_mode],
