@@ -7121,10 +7121,10 @@ nuxt-i18n@6.21.0:
     klona "^2.0.4"
     vue-i18n "^8.23.0"
 
-nuxt-vite@^0.0.34:
-  version "0.0.34"
-  resolved "https://registry.yarnpkg.com/nuxt-vite/-/nuxt-vite-0.0.34.tgz#72769a78f65b491fee033ce392f045b537dfd943"
-  integrity sha512-wHIy6kZu1s1Y5Y/tMKCu/T0RQwB9JbdOZdPhCw6ciNg8e3eqZ9FNTAj2iDDnPb4i/7HxTxAwJv+NS97LToApbg==
+nuxt-vite@^0.0.36:
+  version "0.0.36"
+  resolved "https://registry.yarnpkg.com/nuxt-vite/-/nuxt-vite-0.0.36.tgz#40020a7ba76b40e47894b9209e9fa724f1a03e49"
+  integrity sha512-pZXz2nee7BF6QrQlev9SF3zLDkpa1jGUsagRbtHlrVjEEF82chi6QfWejaJtNEam0+F7Ic7QqnT6M4dDpADo5A==
   dependencies:
     "@nuxt/http" "^0.6.4"
     chokidar "^3.5.1"
@@ -7139,7 +7139,7 @@ nuxt-vite@^0.0.34:
     ufo "^0.6.10"
     upath "^2.0.1"
     vite "^2.0.5"
-    vite-plugin-vue2 "^1.3.2"
+    vite-plugin-vue2 "^1.4.0"
 
 nuxt-windicss@^0.3.2:
   version "0.3.2"
@@ -10424,7 +10424,7 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-vite-plugin-vue2@^1.3.2:
+vite-plugin-vue2@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/vite-plugin-vue2/-/vite-plugin-vue2-1.4.0.tgz#4e3408f3960498754db67951afc0bc856902163f"
   integrity sha512-EQNNamuwCi2JPFAkoNdsSQfGrX4y1FjyC4Uh0jbtZhf/xudyAU5288xZiRPPiFSsRwU3w1Gn9TD82icgJvPpXw==
