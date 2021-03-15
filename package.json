@@ -27,6 +27,6 @@
     "nuxt-vite": "^0.0.34",
     "nuxt-windicss": "^0.3.2",
     "sass-loader": "^10.1.1",
-    "windicss": "2.4.3"
+    "windicss": "2.4.4"
   }
 }

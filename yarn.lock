@@ -10739,10 +10739,10 @@ windicss-webpack-plugin@^0.1.9:
     webpack-virtual-modules "^0.4.2"
     windicss "^2.3.1"
 
-windicss@2.4.3, windicss@^2.3.0, windicss@^2.3.1:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.4.3.tgz#7513f4ac3258155542ef84974a7c0d8a7cf2124c"
-  integrity sha512-97Uro3vUPt9ZRgEIOVh7jpO9o+FVHSjjUBh1m4fjwG1YqoS32CepOvXXECguBJiypSElgBa1eDnHrh9RzgKhZA==
+windicss@2.4.4, windicss@^2.3.0, windicss@^2.3.1:
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.4.4.tgz#0aa81fb3da5492e1df17f63a2e2b5b6dfd535b8c"
+  integrity sha512-189lfHuRK2c/qf/Kgv1Brr3iUEwwzNwJFhTTZ6v54xUdxwEIxEhy8WUObTVzFTt6jGB3XD2elSlRdIJAnVo3ew==
 
 worker-farm@^1.7.0:
   version "1.7.0"
