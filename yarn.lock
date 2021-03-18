@@ -10793,15 +10793,10 @@ windicss-webpack-plugin@^0.2.0:
     webpack-virtual-modules "^0.4.2"
     windicss "^2.4.4"
 
-windicss@2.4.4:
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.4.4.tgz#0aa81fb3da5492e1df17f63a2e2b5b6dfd535b8c"
-  integrity sha512-189lfHuRK2c/qf/Kgv1Brr3iUEwwzNwJFhTTZ6v54xUdxwEIxEhy8WUObTVzFTt6jGB3XD2elSlRdIJAnVo3ew==
-
-windicss@^2.4.0, windicss@^2.4.4, windicss@^2.4.5:
-  version "2.4.7"
-  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.4.7.tgz#6154cc128eec80bd0cb71b34dda02dfcbacfb1aa"
-  integrity sha512-7CuHMxa4r/sUHVqF1v+glcxWVetbG2j5V+JXRk/C//+CN8Sn8yoWHl8KcDqaDtX6nLF8WQRl0q56GUshgWgxwQ==
+windicss@2.5.0, windicss@^2.4.0, windicss@^2.4.4, windicss@^2.4.5:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.5.0.tgz#12910cead975778b8aee6511b563e1d6ce03362f"
+  integrity sha512-mQt42RmDPK9XayP8L+mJW4Gon2X/ftGlNB3/BKaz6hqi4Hywys0piuUjGQIG6KhMfC0LLIzDpHz5b9GFqxYMrQ==
 
 worker-farm@^1.7.0:
   version "1.7.0"
