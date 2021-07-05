@@ -10845,10 +10845,10 @@ windicss-webpack-plugin@^0.2.3:
     webpack-virtual-modules "^0.4.2"
     windicss "^2.5.1"
 
-windicss@2.4.4:
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/windicss/-/windicss-2.4.4.tgz#0aa81fb3da5492e1df17f63a2e2b5b6dfd535b8c"
-  integrity sha512-189lfHuRK2c/qf/Kgv1Brr3iUEwwzNwJFhTTZ6v54xUdxwEIxEhy8WUObTVzFTt6jGB3XD2elSlRdIJAnVo3ew==
+windicss@3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/windicss/-/windicss-3.1.4.tgz#557eaf8e3c08064a309ccb5d887c82c4bce25069"
+  integrity sha512-3RBcANxdOy/n4dLVT8+0X409sGI+piO06ARbQ8RncxGuYgdw5Ip3hrhGIYajH67lV+tHc7xNVGxj73amOC9N0g==
 
 windicss@^2.5.0, windicss@^2.5.1:
   version "2.5.1"
